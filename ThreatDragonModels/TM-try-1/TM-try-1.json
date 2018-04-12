@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "TM-try-1",
+    "owner": "Kayra Bali",
+    "description": "This is a test project for a new Threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Kayra Bali"
+  }
+}
